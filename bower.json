@@ -1,0 +1,8 @@
+{
+  "name": "gaCustom",
+  "version": "0.0.1",
+  "description": "Google Analytics custom for WR",
+  "keywords": [
+    "ga"
+  ]
+}
